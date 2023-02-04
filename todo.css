@@ -5,15 +5,7 @@ body{
     background-attachment: fixed;
 }
 
-#aboutjumbotron{
+#todojumbotron{
     opacity: 0.8;
 }
 
-#aboutimg{
-    height: 7cm;
-    width: 10cm;
-}
-
-.featurette-heading{
-    color: crimson;
-}
